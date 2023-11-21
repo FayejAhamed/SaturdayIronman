@@ -24,6 +24,8 @@ public class Constructor {
 	public Constructor( int  age3, String name3  ){
 		studentName3 = name3;
 		studentAge3 = age3;
+		
+		//ergasgf
 	}
 	
 	
