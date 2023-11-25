@@ -15,6 +15,7 @@ public class Constructor {
 	public Constructor(int age2){
 		
 		studentAge2 = age2;
+	
 	}
 	
 	
@@ -42,6 +43,8 @@ public class Constructor {
 		System.out.println(obj2.studentAge2);
 		System.out.println(obj3.studentName3);
 		System.out.println(obj3.studentAge3);
+		
+		System.out.println("change git command");
 	}
 
 }
