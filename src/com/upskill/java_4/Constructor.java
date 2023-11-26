@@ -27,6 +27,7 @@ public class Constructor {
 		studentAge3 = age3;
 		
 		//ergasgf
+		//change
 	}
 	
 	
@@ -44,7 +45,7 @@ public class Constructor {
 		System.out.println(obj3.studentName3);
 		System.out.println(obj3.studentAge3);
 		
-		System.out.println("change git command");
+		
 	}
 
 }
